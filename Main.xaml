@@ -75,7 +75,7 @@
         <OutArgument x:TypeArguments="x:String">[sasaki]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">大魔神</InArgument>
+        <InArgument x:TypeArguments="x:String">大魔神佐々木</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
