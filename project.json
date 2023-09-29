@@ -1,5 +1,6 @@
 {
   "name": "gitdate2",
+  "projectId": "0ae8067f-676f-4b44-a2d8-8d18a095f76d",
   "description": "空のプロジェクト",
   "main": "Main.xaml",
   "dependencies": {
@@ -21,6 +22,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -42,7 +44,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
