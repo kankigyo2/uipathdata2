@@ -70,7 +70,7 @@
         <OutArgument x:TypeArguments="x:String">[sasaki]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">大魔aaaa4565aaaaa神</InArgument>
+        <InArgument x:TypeArguments="x:String">大魔aaaa456544aaa4444444444444444444aa神</InArgument>
       </Assign.Value>
     </Assign>
     <Assign DisplayName="代入" sap:VirtualizedContainerService.HintSize="434,85.33333333333333" sap2010:WorkflowViewState.IdRef="Assign_2">
